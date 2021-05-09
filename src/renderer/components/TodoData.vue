@@ -1,6 +1,6 @@
 <template>
   <v-card class="mx-auto">
-    <v-container class="ma-0 pa-0">
+    <v-container class="ma-0">
       <v-row class="px-2">
         <v-col class="d-flex align-center">
           {{ todo.name }}
